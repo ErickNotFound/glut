@@ -1,9 +1,8 @@
 # depslib dependency file v1.0
-1663757899 source:c:\users\marcelo\documents\codeblocks\projetos\helicoptero\main.cpp
-	<math.h>
-	<GLUT/glut.h>
+1663761955 source:c:\users\marcelo\documents\codeblocks\projetos\helicoptero\main.cpp
 	<GL/glut.h>
-	<stdlib.h>
+	<GL/gl.h>
+	<math.h>
 
 1426360528 c:\users\marcelo\documents\codeblocks\freeglut\include\gl\glut.h
 	"freeglut_std.h"

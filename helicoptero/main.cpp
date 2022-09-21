@@ -31,7 +31,7 @@ void helicoptero()
     glPushMatrix();
     glTranslatef(tranx, trany, 0);
     glScalef(escala, escala, 0);
-    glRotated(girar, girar, girar, 0);
+    glRotated(girar, girar, girar, girar);
     //HELICE ESQUERDA
     glBegin(GL_LINE_LOOP);
     glVertex2f(265,485);
